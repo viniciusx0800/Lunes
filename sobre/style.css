@@ -1,0 +1,63 @@
+
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background-color: #7064a360; 
+    min-width: 300px;
+    max-width: 1000;
+    width: 700;
+}
+
+main{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px #312b27b0;
+    width: 800px;
+    min-width: 300;
+    height: 1000px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 3rem;
+    font-style: italic;
+    color: #121414;
+    text-align: center;
+    text-shadow: 1px 1px 2px #6D59C0;
+}
+
+h2{
+    color: #232227;
+    font-family: teko;
+    font-size: 2rem;
+}
+
+p {
+    text-align: justify;
+    color: rgb(0, 0, 0);
+    font-size: 1.3em;
+    font-style: teko;
+}
+img{
+    width: 58px;
+    
+
+}
+
+div{
+    margin: auto;
+}
+
+a{
+    color: rgb(137, 97, 231);
+    text-decoration: none;
+    font-weight: bold;
+}
